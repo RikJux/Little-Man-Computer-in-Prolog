@@ -1,4 +1,4 @@
-%Giussani Riccardo, Di Nicola Emanuele
+
 %checks that all values are within 0 and 999
 valid_range_of_values([]).
 
